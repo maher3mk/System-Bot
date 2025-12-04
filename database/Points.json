@@ -1,0 +1,77 @@
+{
+    "Points_Kdaa": [
+        {
+            "userid": "860318175421530132",
+            "point": 0
+        },
+        {
+            "userid": "888456281264898049",
+            "point": 0
+        },
+        {
+            "userid": "1004895478569259079",
+            "point": 0
+        },
+        {
+            "userid": "772207868152905788",
+            "point": 1
+        }
+    ],
+    "Points_Staff": [
+        {
+            "userid": "860318175421530132",
+            "point": 0,
+            "Warn": 0
+        },
+        {
+            "userid": "1004895478569259079",
+            "Warn": 0,
+            "point": 0
+        },
+        {
+            "userid": "772207868152905788",
+            "Warn": 3,
+            "point": 4
+        },
+        {
+            "userid": "156459433629712384",
+            "Warn": 3,
+            "point": 1,
+            "Mutes": 1,
+            "points": 6,
+            "warnings": 6,
+            "logs": [
+                {
+                    "action": "remove_roles",
+                    "target": "156459433629712384",
+                    "time": 1764592708569
+                },
+                {
+                    "action": "remove_roles",
+                    "target": "1257025770484662343",
+                    "time": 1764592993999
+                },
+                {
+                    "action": "apply_warn",
+                    "target": "156459433629712384",
+                    "time": 1764593346038
+                },
+                {
+                    "action": "apply_warn",
+                    "target": "156459433629712384",
+                    "time": 1764594084979
+                },
+                {
+                    "action": "apply_warn",
+                    "target": "156459433629712384",
+                    "time": 1764594333431
+                },
+                {
+                    "action": "apply_warn",
+                    "target": "156459433629712384",
+                    "time": 1764594437332
+                }
+            ]
+        }
+    ]
+}
