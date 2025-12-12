@@ -247,7 +247,7 @@ client.on('interactionCreate', async (interaction) => {
             });
 
             await privateRoom.send(`${adss} \n @everyone`);
-            await privateRoom.send(`$giveaway 3d 1 500k`);
+            await privateRoom.send(`$giveaway 3d 1 50k`);
         }
 
         submittedAds.set(`${interaction.user.id}_${selectedValue}`, true);
