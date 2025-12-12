@@ -42,6 +42,7 @@ client.on('messageCreate', async (message) => {
             🔄 لإعادة ضبط القائمة اختر "إعادة تعيين"
             `)
             .setThumbnail(message.guild.iconURL({ dynamic: true }))
+            .setImage('https://files.catbox.moe/otxqym.jpg')
             .setColor(settings.لون_الامبيد);
 
         message.channel.send({
