@@ -77,7 +77,7 @@ module.exports = {
     },
     ServerInfo: {
         serverID: '1435329855720784045',
-        line: 'https://imgur.com/a/z3Z2hrX',
+        line: 'https://files.catbox.moe/cjfqm0.gif',
         ApplyImage: 'https://ibb.co/mFMLD0Lz',
         Orders: 'https://ibb.co/SD2QFCmN',
         tashfer: 'https://ibb.co/7xDYd0W3',
